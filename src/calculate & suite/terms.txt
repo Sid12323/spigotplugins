@@ -1,0 +1,2 @@
+Please accredit "Sciencesid" or "Sid12323 on Github/spigotplugins" if you end up using this for development of your plugin.
+Thanks!

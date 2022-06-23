@@ -1,0 +1,18 @@
+name: Calculate
+version: 1.2
+author: Sciencesid
+main: me.sciencesid.calculate.Main
+api-version: 1.19
+load: POSTWORLD
+description: A simple CLI multifunction calculator, Console DeathPoint, & Barrier Placement Logger.
+commands:
+  calculate:
+    description: calculate
+    aliases: calc
+    permission: calculate.use
+    usage: "/calculate <num1> [+,-,/,*,^,%,sqrt (num1 only)] <num 2>"
+    permission-message: \&c You do not have permission to use this command.
+permissions:
+  calculate.use:
+    description: Allows usage of command
+    default: true
