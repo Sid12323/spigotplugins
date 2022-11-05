@@ -1,0 +1,11 @@
+name: FsInChat
+version: '${project.version}'
+author: Sciencesid
+main: me.sciencesid.FsInChat.Main
+api-version: 1.19
+load: POSTWORLD
+description: A simple plugin that shows respect when someone dies.
+permissions:
+  fsinchat.listen:
+    description: Allows broadcasting of message
+    default: true
